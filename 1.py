@@ -1,0 +1,1 @@
+print('result of 2+2*2 =', 2 + 2 * 2)
